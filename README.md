@@ -470,7 +470,7 @@ CODE → CONTAINER → ORCHESTRATE → PROVISION → DEPLOY → AUTOMATE
 <div style="background-color: #161b22; padding: 16px; border-radius: 10px; border: 1px solid #30363d; height: 100%;">
   <h4 style="color: #38bdf8; margin-top: 0;">🐳 App Inventario DevOps</h4>
   <p style="color: #8b949e; font-size: 12px; margin-bottom: 10px;">
-    Aplicación base en Python/FastAPI utilizada para pruebas de containerización y CI/CD.
+    Sistema de inventario CRUD desarrollado con HTML, CSS, JavaScript, Python y PostgreSQL, contenerizado con Docker y Docker Compose.
   </p>
   <code>Docker</code> <code>Python</code> <code>PostgreSQL</code>
   <br><br>
