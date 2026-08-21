@@ -26,21 +26,24 @@
 <br>
 
 <!-- ===================================================== -->
-<!--                   ABOUT ME                            -->
+<!--                     ABOUT ME                          -->
 <!-- ===================================================== -->
 
-<table width="100%">
+<table>
 <tr>
 
 <!-- Panel Izquierdo: Información -->
-<td width="60%" valign="top">
+<td width="58%" valign="top">
+  <div style="background-color: #161b22; padding: 22px; border-radius: 12px; border: 1px solid #30363d;">
+    
+  <h2 style="color: #58a6ff; margin-top: 0;">⚡ About Me</h2>
 
-  <h2 style="color: #58a6ff;">⚡ About Me</h2>
-
-  <p>
-    <strong style="color: #38bdf8;">Ingeniero Electrónico</strong> ➔ 
-    <strong style="color: #a5d6ff;">Software Developer</strong> ➔ 
-    <strong style="color: #7ee787;">Junior DevOps Engineer</strong>
+  <p style="font-size: 15px; font-weight: 600; margin-bottom: 16px;">
+    <span style="color: #38bdf8;">Ingeniero Electrónico</span> 
+    <span style="color: #8b949e;">→</span> 
+    <span style="color: #a5d6ff;">Software Developer</span> 
+    <span style="color: #8b949e;">→</span> 
+    <span style="color: #7ee787;">Junior DevOps Engineer</span>
   </p>
 
   Soy **Ingeniero Electrónico** (Universidad Manuela Beltrán) con experiencia en desarrollo de software desde 2019.
@@ -56,12 +59,14 @@
 
   > *“Build systems. Understand them. Automate them. Improve them.”*
 
+  </div>
 </td>
 
-<!-- Panel Derecho: Stack & Highlights -->
-<td width="40%" valign="top" align="center">
+<td width="4%"></td> <!-- Espaciador -->
 
-  <br>
+<!-- Panel Derecho: Stack & Highlights -->
+<td width="38%" valign="top">
+  <div style="background-color: #161b22; padding: 22px; border-radius: 12px; border: 1px solid #30363d;" align="center">
 
   <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,aws,python,postgres,git&perline=4&theme=dark" />
 
@@ -77,6 +82,7 @@
 
   <img src="https://img.shields.io/badge/Focus-DevOps_%26_Cloud-38BDF8?style=for-the-badge&logo=linux&logoColor=white" />
 
+  </div>
 </td>
 
 </tr>
@@ -88,37 +94,47 @@
 <!--                QUICK PROFILE CARDS                    -->
 <!-- ===================================================== -->
 
-<table width="100%">
+<table>
 <tr>
 
-<td width="20%" align="center" valign="top">
-  <h3>🎓</h3>
-  <strong style="color: #58a6ff;">Ingeniero</strong><br>
-  <sub>Electrónico (2021)</sub>
+<td width="20%" align="center">
+  <div style="background-color: #161b22; padding: 14px; border-radius: 10px; border: 1px solid #30363d;">
+    <h3 style="margin: 0 0 6px 0;">🎓</h3>
+    <strong style="color: #58a6ff;">Ingeniero</strong><br>
+    <span style="color: #8b949e; font-size: 12px;">Electrónico (2021)</span>
+  </div>
 </td>
 
-<td width="20%" align="center" valign="top">
-  <h3>💻</h3>
-  <strong style="color: #58a6ff;">Software Dev</strong><br>
-  <sub>Python & C++</sub>
+<td width="20%" align="center">
+  <div style="background-color: #161b22; padding: 14px; border-radius: 10px; border: 1px solid #30363d;">
+    <h3 style="margin: 0 0 6px 0;">💻</h3>
+    <strong style="color: #58a6ff;">Software Dev</strong><br>
+    <span style="color: #8b949e; font-size: 12px;">Python & C++</span>
+  </div>
 </td>
 
-<td width="20%" align="center" valign="top">
-  <h3>🎮</h3>
-  <strong style="color: #38bdf8;">Unreal Engine</strong><br>
-  <sub>5+ años (Blueprints/C++)</sub>
+<td width="20%" align="center">
+  <div style="background-color: #161b22; padding: 14px; border-radius: 10px; border: 1px solid #30363d;">
+    <h3 style="margin: 0 0 6px 0;">🎮</h3>
+    <strong style="color: #38bdf8;">Unreal Engine</strong><br>
+    <span style="color: #8b949e; font-size: 12px;">5+ años (Blueprints/C++)</span>
+  </div>
 </td>
 
-<td width="20%" align="center" valign="top">
-  <h3>⚙️</h3>
-  <strong style="color: #38bdf8;">Enfoque</strong><br>
-  <sub>DevOps & Infra</sub>
+<td width="20%" align="center">
+  <div style="background-color: #161b22; padding: 14px; border-radius: 10px; border: 1px solid #30363d;">
+    <h3 style="margin: 0 0 6px 0;">⚙️</h3>
+    <strong style="color: #38bdf8;">Enfoque</strong><br>
+    <span style="color: #8b949e; font-size: 12px;">DevOps & Infra</span>
+  </div>
 </td>
 
-<td width="20%" align="center" valign="top">
-  <h3>☁️</h3>
-  <strong style="color: #7ee787;">Cloud Target</strong><br>
-  <sub>AWS & CI/CD</sub>
+<td width="20%" align="center">
+  <div style="background-color: #161b22; padding: 14px; border-radius: 10px; border: 1px solid #30363d;">
+    <h3 style="margin: 0 0 6px 0;">☁️</h3>
+    <strong style="color: #7ee787;">Cloud Target</strong><br>
+    <span style="color: #8b949e; font-size: 12px;">AWS & CI/CD</span>
+  </div>
 </td>
 
 </tr>
@@ -144,19 +160,25 @@
 <tr>
 
 <td width="50%" valign="top">
-  <h3 style="color: #38bdf8;">🛡️ Infrastructure & Deployment</h3>
-  
-  * **Immutable Infrastructure:** Despliegues reproducibles mediante Terraform e imágenes Docker estables.
-  * **Container Security:** Uso de imágenes base ligeras (Alpine/Distroless) y escaneo de vulnerabilidades.
-  * **State & Secrets Management:** Manejo seguro de credenciales con ConfigMaps, Secrets y variables de entorno.
+<div style="background-color: #161b22; padding: 18px; border-radius: 12px; border: 1px solid #30363d;">
+  <h3 style="color: #38bdf8; margin-top: 0;">🛡️ Infrastructure & Deployment</h3>
+  <p style="color: #c9d1d9; font-size: 13px; line-height: 1.6; margin: 0;">
+    • <b>Immutable Infrastructure:</b> Despliegues reproducibles mediante Terraform e imágenes Docker estables.<br>
+    • <b>Container Security:</b> Uso de imágenes base ligeras (Alpine/Distroless) y escaneo de vulnerabilidades.<br>
+    • <b>State & Secrets Management:</b> Manejo seguro de credenciales con ConfigMaps, Secrets y variables de entorno.
+  </p>
+</div>
 </td>
 
 <td width="50%" valign="top">
-  <h3 style="color: #7ee787;">💻 Code & Architecture</h3>
-  
-  * **Clean Architecture:** Estructuración modular en FastAPI y C++ orientada a mantenibilidad.
-  * **Version Control:** Flujos de trabajo estructurados con Git (Conventional Commits y Feature Branching).
-  * **Observability Mindset:** Logging estructurado y preparación de métricas para monitoreo.
+<div style="background-color: #161b22; padding: 18px; border-radius: 12px; border: 1px solid #30363d;">
+  <h3 style="color: #7ee787; margin-top: 0;">💻 Code & Architecture</h3>
+  <p style="color: #c9d1d9; font-size: 13px; line-height: 1.6; margin: 0;">
+    • <b>Clean Architecture:</b> Estructuración modular en FastAPI y C++ orientada a mantenibilidad.<br>
+    • <b>Version Control:</b> Flujos de trabajo estructurados con Git (Conventional Commits y Feature Branching).<br>
+    • <b>Observability Mindset:</b> Logging estructurado y preparación de métricas para monitoreo.
+  </p>
+</div>
 </td>
 
 </tr>
@@ -173,53 +195,55 @@
   My DevOps Journey
 </h2>
 
-<table width="100%">
+<div style="background-color: #161b22; padding: 20px; border-radius: 12px; border: 1px solid #30363d;" align="center">
+
+<table>
 <tr>
 
 <td align="center" width="15%">
   <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="40" /><br>
   <strong style="color: #38bdf8;">01. Linux</strong><br>
-  <sub>Foundation</sub>
+  <span style="color: #8b949e; font-size: 12px;">Foundation</span>
 </td>
 
-<td align="center"><strong style="color: #58a6ff;">➔</strong></td>
+<td align="center"><span style="color: #58a6ff; font-weight: bold;">→</span></td>
 
 <td align="center" width="15%">
   <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="40" /><br>
   <strong style="color: #38bdf8;">02. Docker</strong><br>
-  <sub>Containers</sub>
+  <span style="color: #8b949e; font-size: 12px;">Containers</span>
 </td>
 
-<td align="center"><strong style="color: #58a6ff;">➔</strong></td>
+<td align="center"><span style="color: #58a6ff; font-weight: bold;">→</span></td>
 
 <td align="center" width="15%">
   <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" width="40" /><br>
   <strong style="color: #38bdf8;">03. K8s</strong><br>
-  <sub>Orchestration</sub>
+  <span style="color: #8b949e; font-size: 12px;">Orchestration</span>
 </td>
 
-<td align="center"><strong style="color: #58a6ff;">➔</strong></td>
+<td align="center"><span style="color: #58a6ff; font-weight: bold;">→</span></td>
 
 <td align="center" width="15%">
   <img src="https://skillicons.dev/icons?i=terraform&theme=dark" width="40" /><br>
   <strong style="color: #38bdf8;">04. Terraform</strong><br>
-  <sub>IaC</sub>
+  <span style="color: #8b949e; font-size: 12px;">IaC</span>
 </td>
 
-<td align="center"><strong style="color: #58a6ff;">➔</strong></td>
+<td align="center"><span style="color: #58a6ff; font-weight: bold;">→</span></td>
 
 <td align="center" width="15%">
   <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="40" /><br>
   <strong style="color: #38bdf8;">05. AWS</strong><br>
-  <sub>Cloud</sub>
+  <span style="color: #8b949e; font-size: 12px;">Cloud</span>
 </td>
 
-<td align="center"><strong style="color: #58a6ff;">➔</strong></td>
+<td align="center"><span style="color: #58a6ff; font-weight: bold;">→</span></td>
 
 <td align="center" width="15%">
   <img src="https://skillicons.dev/icons?i=jenkins&theme=dark" width="40" /><br>
   <strong style="color: #7ee787;">06. CI/CD</strong><br>
-  <sub>Automation</sub>
+  <span style="color: #8b949e; font-size: 12px;">Automation</span>
 </td>
 
 </tr>
@@ -230,18 +254,30 @@
 <table width="100%">
 <tr>
 
-<td width="50%" valign="top">
-  <h4 style="color: #a5d6ff;">🧩 What connects everything?</h4>
-  <code>CODE ➔ CONTAINER ➔ ORCHESTRATE ➔ PROVISION ➔ DEPLOY ➔ AUTOMATE</code>
+<td width="48%" valign="top">
+  <div style="background-color: #0d1117; padding: 15px; border-radius: 8px; border: 1px solid #21262d;">
+    <h4 style="color: #a5d6ff; margin-top: 0;">🧩 What connects everything?</h4>
+<pre style="color: #38bdf8; margin: 0; font-size: 12px;">
+CODE → CONTAINER → ORCHESTRATE → PROVISION → DEPLOY → AUTOMATE
+</pre>
+  </div>
 </td>
 
-<td width="50%" valign="top">
-  <h4 style="color: #a5d6ff;">🎯 Objective</h4>
-  Unir desarrollo e infraestructura mediante **IaC, Automatización, Contenedores y CI/CD**.
+<td width="4%"></td>
+
+<td width="48%" valign="top">
+  <div style="background-color: #0d1117; padding: 15px; border-radius: 8px; border: 1px solid #21262d;">
+    <h4 style="color: #a5d6ff; margin-top: 0;">🎯 Objective</h4>
+    <p style="color: #c9d1d9; font-size: 13px; margin: 0;">
+      Unir desarrollo e infraestructura mediante <strong>IaC, Automatización, Contenedores y CI/CD</strong>.
+    </p>
+  </div>
 </td>
 
 </tr>
 </table>
+
+</div>
 
 <br>
 
@@ -257,36 +293,52 @@
 <table width="100%">
 <tr>
 
-<td width="25%" valign="top" align="center">
-  <h3 style="color: #38bdf8;">🐧 DevOps & Infra</h3>
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,git,bash&perline=3&theme=dark" /><br><br>
-  <code>Linux</code> <code>Docker</code><br>
-  <code>Kubernetes</code> <code>Terraform</code><br>
-  <code>Git</code> <code>Bash</code>
+<td width="25%" valign="top">
+  <div style="background-color: #161b22; padding: 18px; border-radius: 12px; border: 1px solid #30363d;" align="center">
+    <h3 style="color: #38bdf8; margin-top: 0;">🐧 DevOps & Infra</h3>
+    <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,git,bash&perline=3&theme=dark" /><br><br>
+    <span style="color: #8b949e; font-size: 13px;">
+      <code>Linux</code> <code>Docker</code><br>
+      <code>Kubernetes</code> <code>Terraform</code><br>
+      <code>Git</code> <code>Bash</code>
+    </span>
+  </div>
 </td>
 
-<td width="25%" valign="top" align="center">
-  <h3 style="color: #38bdf8;">🎮 Game Dev</h3>
-  <img src="https://skillicons.dev/icons?i=unreal,cpp&perline=2&theme=dark" /><br><br>
-  <code>Unreal Engine 5</code><br>
-  <code>Blueprints</code><br>
-  <code>C++</code> <code>Gameplay</code>
+<td width="25%" valign="top">
+  <div style="background-color: #161b22; padding: 18px; border-radius: 12px; border: 1px solid #30363d;" align="center">
+    <h3 style="color: #38bdf8; margin-top: 0;">🎮 Game Dev</h3>
+    <img src="https://skillicons.dev/icons?i=unreal,cpp&perline=2&theme=dark" /><br><br>
+    <span style="color: #8b949e; font-size: 13px;">
+      <code>Unreal Engine 5</code><br>
+      <code>Blueprints</code><br>
+      <code>C++</code> <code>Gameplay Logic</code>
+    </span>
+  </div>
 </td>
 
-<td width="25%" valign="top" align="center">
-  <h3 style="color: #38bdf8;">💻 Development</h3>
-  <img src="https://skillicons.dev/icons?i=python,cs,java,js&perline=2&theme=dark" /><br><br>
-  <code>Python</code> <code>FastAPI</code><br>
-  <code>C#</code> <code>Java</code><br>
-  <code>JavaScript</code> <code>REST APIs</code>
+<td width="25%" valign="top">
+  <div style="background-color: #161b22; padding: 18px; border-radius: 12px; border: 1px solid #30363d;" align="center">
+    <h3 style="color: #38bdf8; margin-top: 0;">💻 Development</h3>
+    <img src="https://skillicons.dev/icons?i=python,cs,java,js&perline=2&theme=dark" /><br><br>
+    <span style="color: #8b949e; font-size: 13px;">
+      <code>Python</code> <code>FastAPI</code><br>
+      <code>C#</code> <code>Java</code><br>
+      <code>JavaScript</code> <code>REST APIs</code>
+    </span>
+  </div>
 </td>
 
-<td width="25%" valign="top" align="center">
-  <h3 style="color: #38bdf8;">🗄️ Cloud & Data</h3>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,aws,jenkins&perline=2&theme=dark" /><br><br>
-  <code>PostgreSQL</code> <code>MySQL</code><br>
-  <code>AWS (Learning)</code><br>
-  <code>CI/CD Pipelines</code>
+<td width="25%" valign="top">
+  <div style="background-color: #161b22; padding: 18px; border-radius: 12px; border: 1px solid #30363d;" align="center">
+    <h3 style="color: #38bdf8; margin-top: 0;">🗄️ Cloud & Data</h3>
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,aws,jenkins&perline=2&theme=dark" /><br><br>
+    <span style="color: #8b949e; font-size: 13px;">
+      <code>PostgreSQL</code> <code>MySQL</code><br>
+      <code>AWS (Learning)</code><br>
+      <code>CI/CD Pipelines</code>
+    </span>
+  </div>
 </td>
 
 </tr>
@@ -307,33 +359,41 @@
 <tr>
 
 <td width="50%" valign="top">
-  <h3 style="color: #7ee787;">🟢 High Practical Experience</h3>
+<div style="background-color: #161b22; padding: 20px; border-radius: 12px; border: 1px solid #30363d;">
+<h3 style="color: #7ee787; margin-top: 0;">🟢 High Practical Experience</h3>
 
-  * **Unreal Engine (Blueprints/C++):** Advanced (5+ yrs)
-  * **Python:** Advanced
-  * **Linux & Bash:** Solid Hands-on
-  * **Docker & Compose:** Advanced
-  * **C++ / C#:** Advanced
-  * **Git & Version Control:** Advanced
-  * **SQL & PostgreSQL:** Intermediate
+<p style="color: #c9d1d9; font-size: 13px; line-height: 1.8; margin: 0;">
+<b>Unreal Engine (Blueprints/C++)</b> — <span style="color: #7ee787;">Advanced (5+ yrs)</span><br>
+<b>Python</b> — <span style="color: #7ee787;">Advanced</span><br>
+<b>Linux & Bash</b> — <span style="color: #38bdf8;">Solid Hands-on</span><br>
+<b>Docker & Compose</b> — <span style="color: #7ee787;">Advanced</span><br>
+<b>C++ / C#</b> — <span style="color: #7ee787;">Advanced</span><br>
+<b>Git & Version Control</b> — <span style="color: #7ee787;">Advanced</span><br>
+<b>SQL & PostgreSQL</b> — <span style="color: #38bdf8;">Intermediate</span>
+</p>
+</div>
 </td>
 
 <td width="50%" valign="top">
-  <h3 style="color: #38bdf8;">🟡 Currently Scaling & Active Learning</h3>
+<div style="background-color: #161b22; padding: 20px; border-radius: 12px; border: 1px solid #30363d;">
+<h3 style="color: #38bdf8; margin-top: 0;">🟡 Currently Scaling & Active Learning</h3>
 
-  * **Kubernetes:** Intermediate / Active
-  * **Terraform (IaC):** Intermediate
-  * **FastAPI:** Intermediate
-  * **AWS Services:** In Progress
-  * **Jenkins & CI/CD Pipelines:** In Progress
-  * **Ansible:** In Progress
+<p style="color: #c9d1d9; font-size: 13px; line-height: 1.8; margin: 0;">
+<b>Kubernetes</b> — <span style="color: #38bdf8;">Intermediate / Active</span><br>
+<b>Terraform (IaC)</b> — <span style="color: #38bdf8;">Intermediate</span><br>
+<b>FastAPI</b> — <span style="color: #38bdf8;">Intermediate</span><br>
+<b>AWS Services</b> — <span style="color: #e3b341;">In Progress</span><br>
+<b>Jenkins & CI/CD Pipelines</b> — <span style="color: #e3b341;">In Progress</span><br>
+<b>Ansible</b> — <span style="color: #e3b341;">In Progress</span>
+</p>
+</div>
 </td>
 
 </tr>
 </table>
 
-<p align="center">
-  <sub><em>*Indicadores basados en experiencia práctica en proyectos reales y laboratorios de infraestructura.</em></sub>
+<p align="center" style="color: #8b949e; font-size: 12px; margin-top: 10px;">
+<em>*Indicadores basados en experiencia práctica en proyectos reales y laboratorios de infraestructura.</em>
 </p>
 
 <br>
@@ -347,32 +407,38 @@
   Featured Project
 </h2>
 
+<div style="background-color: #161b22; padding: 22px; border-radius: 12px; border: 1px solid #30363d;">
+
 <table width="100%">
 <tr>
 
-<td width="60%" valign="top">
-  <h3 style="color: #38bdf8;">☸️ Inventory System — Docker to Kubernetes</h3>
+<td width="55%" valign="top">
+  <h3 style="color: #38bdf8; margin-top: 0;">☸️ Inventory System — Docker to Kubernetes</h3>
   
-  Sistema de inventario completo diseñado y desplegado como laboratorio de arquitectura de microservicios e infraestructura containerizada.
-
-  <br><br>
+  <p style="color: #c9d1d9; font-size: 14px;">
+    Sistema de inventario completo diseñado y desplegado como laboratorio de arquitectura de microservicios e infraestructura containerizada.
+  </p>
 
   <a href="https://github.com/overrun1026/Inventario-docker-kubernetes" target="_blank">
-    <img src="https://opengraph.githubassets.com/1/overrun1026/Inventario-docker-kubernetes" width="100%" />
+    <img src="https://opengraph.githubassets.com/1/overrun1026/Inventario-docker-kubernetes" width="100%" style="border-radius: 8px; border: 1px solid #30363d;" />
   </a>
 </td>
 
-<td width="40%" valign="top" align="center">
-  <h4 style="color: #a5d6ff;">🛠️ Tech Stack</h4>
+<td width="5%"></td>
+
+<td width="40%" valign="top">
+  <h4 style="color: #a5d6ff; margin-top: 0;">🛠️ Tech Stack</h4>
   <img src="https://skillicons.dev/icons?i=python,fastapi,docker,kubernetes,postgres,nginx&perline=3&theme=dark" />
 
   <br><br>
 
-  <h4 style="color: #a5d6ff;">🏗️ Implemented Concepts</h4>
-  <code>Deployments</code> <code>Services</code><br>
-  <code>ConfigMaps</code> <code>Secrets</code><br>
-  <code>PVC (Persistent Volumes)</code><br>
-  <code>NGINX Ingress Controller</code>
+  <h4 style="color: #a5d6ff; margin-bottom: 6px;">🏗️ Implemented Concepts</h4>
+  <span style="color: #8b949e; font-size: 13px;">
+    <code>Deployments</code> <code>Services</code><br>
+    <code>ConfigMaps</code> <code>Secrets</code><br>
+    <code>PVC (Persistent Volumes)</code><br>
+    <code>NGINX Ingress Controller</code>
+  </span>
 
   <br><br><br>
 
@@ -383,6 +449,8 @@
 
 </tr>
 </table>
+
+</div>
 
 <br>
 
@@ -399,30 +467,43 @@
 <tr>
 
 <td width="33%" valign="top">
-  <h4 style="color: #38bdf8;">🐳 App Inventario DevOps</h4>
-  <sub>Aplicación base en Python/FastAPI utilizada para pruebas de containerización y CI/CD.</sub>
-  <br><br>
+<div style="background-color: #161b22; padding: 16px; border-radius: 10px; border: 1px solid #30363d; height: 100%;">
+  <h4 style="color: #38bdf8; margin-top: 0;">🐳 App Inventario DevOps</h4>
+  <p style="color: #8b949e; font-size: 12px; margin-bottom: 10px;">
+    Aplicación base en Python/FastAPI utilizada para pruebas de containerización y CI/CD.
+  </p>
   <code>Docker</code> <code>Python</code> <code>PostgreSQL</code>
   <br><br>
-  <a href="https://github.com/overrun1026/app-inventario-devops-v1" target="_blank">Ver Repositorio →</a>
+  <a href="https://github.com/overrun1026/app-inventario-devops-v1" target="_blank">
+    <span style="color: #58a6ff; font-size: 12px; font-weight: bold;">Ver Repositorio →</span>
+  </a>
+</div>
 </td>
 
 <td width="33%" valign="top">
-  <h4 style="color: #38bdf8;">🐍 Python Docker Compose</h4>
-  <sub>Orquestación multicontenedor de entorno de desarrollo con persistencia de datos.</sub>
-  <br><br>
+<div style="background-color: #161b22; padding: 16px; border-radius: 10px; border: 1px solid #30363d; height: 100%;">
+  <h4 style="color: #38bdf8; margin-top: 0;">🐍 Python Docker Compose</h4>
+  <p style="color: #8b949e; font-size: 12px; margin-bottom: 10px;">
+    Orquestación multicontenedor de entorno de desarrollo con persistencia de datos.
+  </p>
   <code>Python</code> <code>Docker Compose</code> <code>Postgres</code>
   <br><br>
-  <a href="https://github.com/overrun1026/python-inventory-docker-compose" target="_blank">Ver Repositorio →</a>
+  <a href="https://github.com/overrun1026/python-inventory-docker-compose" target="_blank">
+    <span style="color: #58a6ff; font-size: 12px; font-weight: bold;">Ver Repositorio →</span>
+  </a>
+</div>
 </td>
 
 <td width="33%" valign="top">
-  <h4 style="color: #38bdf8;">🗄️ Database Lab Series</h4>
-  <sub>Colección de sistemas de gestión integrados con MySQL, PostgreSQL y JSON.</sub>
-  <br><br>
+<div style="background-color: #161b22; padding: 16px; border-radius: 10px; border: 1px solid #30363d; height: 100%;">
+  <h4 style="color: #38bdf8; margin-top: 0;">🗄️ Database Lab Series</h4>
+  <p style="color: #8b949e; font-size: 12px; margin-bottom: 10px;">
+    Colección de sistemas de gestión integrados con MySQL, PostgreSQL y JSON.
+  </p>
   <code>SQL</code> <code>PostgreSQL</code> <code>MySQL</code>
   <br><br>
-  <strong style="color: #7ee787;">Software Architecture Labs</strong>
+  <span style="color: #7ee787; font-size: 12px; font-weight: bold;">Software Architecture Labs</span>
+</div>
 </td>
 
 </tr>
@@ -431,7 +512,7 @@
 <br>
 
 <!-- ===================================================== -->
-<!--            EDUCATION & CERTIFICATIONS                 -->
+<!--             EDUCATION & CERTIFICATIONS                -->
 <!-- ===================================================== -->
 
 <h2 style="color: #58a6ff;">🎓 Education & Certifications</h2>
@@ -440,23 +521,33 @@
 <tr>
 
 <td width="50%" valign="top">
-  <h3 style="color: #38bdf8;">🎓 Formal Education</h3>
+<div style="background-color: #161b22; padding: 20px; border-radius: 12px; border: 1px solid #30363d;">
+  <h3 style="color: #38bdf8; margin-top: 0;">🎓 Formal Education</h3>
   
-  #### Ingeniería Electrónica
-  **Universidad Manuela Beltrán** • 2021
+  <h4 style="color: #c9d1d9; margin-bottom: 4px;">Ingeniería Electrónica</h4>
+  <p style="color: #8b949e; font-size: 13px; margin-top: 0;"><strong>Universidad Manuela Beltrán</strong> • 2021</p>
   
-  <code>Programming</code> <code>Automation</code><br>
-  <code>Systems Engineering</code> <code>Electronics</code>
+  <span style="color: #8b949e; font-size: 12px;">
+    <code>Programming</code> <code>Automation</code><br>
+    <code>Systems Engineering</code> <code>Electronics</code>
+  </span>
+</div>
 </td>
 
 <td width="50%" valign="top">
-  <h3 style="color: #7ee787;">📜 Core Certifications</h3>
+<div style="background-color: #161b22; padding: 20px; border-radius: 12px; border: 1px solid #30363d;">
+  <h3 style="color: #7ee787; margin-top: 0;">📜 Core Certifications & Courses</h3>
   
-  * **Docker — De Cero a Experto**  
-    <sub>Fernando Herrera (Udemy) • Docker, Compose, Volumes, Networks</sub>
+  <p style="color: #c9d1d9; font-size: 13px; margin-bottom: 8px;">
+    <strong>Docker — De Cero a Experto</strong><br>
+    <span style="color: #8b949e; font-size: 12px;">Fernando Herrera (Udemy) • Docker, Compose, Volumes, Networks</span>
+  </p>
   
-  * **Kubernetes Master**  
-    <sub>Ricardo A. González (Udemy) • Pods, Deployments, Services, Ingress</sub>
+  <p style="color: #c9d1d9; font-size: 13px; margin-bottom: 0;">
+    <strong>Kubernetes Master</strong><br>
+    <span style="color: #8b949e; font-size: 12px;">Ricardo A. González (Udemy) • Pods, Deployments, Services, Ingress</span>
+  </p>
+</div>
 </td>
 
 </tr>
@@ -468,17 +559,25 @@
 <tr>
 
 <td width="50%" valign="top">
-  <h3 style="color: #38bdf8;">🏗️ IaC & Cloud Specialization</h3>
+<div style="background-color: #161b22; padding: 20px; border-radius: 12px; border: 1px solid #30363d;">
+  <h3 style="color: #38bdf8; margin-top: 0;">🏗️ IaC & Cloud Specialization</h3>
   
-  * **Terraform — De Principiante a Certificado**  
-    <sub>Eduardo Arreola (Udemy) • State, Modules, AWS, Infrastructure as Code</sub>
+  <p style="color: #c9d1d9; font-size: 13px; margin: 0;">
+    <strong>Terraform — De Principiante a Certificado</strong><br>
+    <span style="color: #8b949e; font-size: 12px;">Eduardo Arreola (Udemy) • State, Modules, AWS, Infrastructure as Code</span>
+  </p>
+</div>
 </td>
 
 <td width="50%" valign="top">
-  <h3 style="color: #e3b341;">🔄 Next Milestone</h3>
+<div style="background-color: #161b22; padding: 20px; border-radius: 12px; border: 1px solid #30363d;">
+  <h3 style="color: #e3b341; margin-top: 0;">🔄 Next Milestone</h3>
   
-  * **Jenkins & CI/CD Pipelines**  
-    <sub>Ricardo A. González (Udemy) • Automation, Integration, AWS Deployment</sub>
+  <p style="color: #c9d1d9; font-size: 13px; margin: 0;">
+    <strong>Jenkins & CI/CD Pipelines</strong><br>
+    <span style="color: #8b949e; font-size: 12px;">Ricardo A. González (Udemy) • Automation, Integration, AWS Deployment</span>
+  </p>
+</div>
 </td>
 
 </tr>
@@ -499,33 +598,51 @@
 <tr>
 
 <td width="33%" valign="top">
-  <h3 style="color: #38bdf8;">👨‍💻 Software & Game Dev</h3>
-  <strong style="color: #7ee787;">2019 ➔ Presente</strong>
+<div style="background-color: #161b22; padding: 20px; border-radius: 12px; border: 1px solid #30363d; height: 100%;">
+  <h3 style="color: #38bdf8; margin-top: 0;">👨‍💻 Software & Game Developer</h3>
+  <p style="color: #7ee787; font-size: 12px; font-weight: bold; margin-top: -8px;">2019 → Presente</p>
 
-  <p>Desarrollo de aplicaciones, programación orientada a objetos, lógica compleja en <strong>Unreal Engine (5+ años)</strong> y soluciones de software.</p>
+  <p style="color: #c9d1d9; font-size: 13px;">
+    Desarrollo de aplicaciones, programación orientada a objetos, lógica compleja en <strong>Unreal Engine (5+ años)</strong> y soluciones de software.
+  </p>
 
-  <code>Python</code> <code>C++</code> <code>Unreal Engine</code><br>
-  <code>Linux</code> <code>Docker</code> <code>Kubernetes</code>
+  <span style="color: #8b949e; font-size: 12px;">
+    <code>Python</code> <code>C++</code> <code>Unreal Engine</code><br>
+    <code>Linux</code> <code>Docker</code> <code>Kubernetes</code>
+  </span>
+</div>
 </td>
 
 <td width="33%" valign="top">
-  <h3 style="color: #38bdf8;">🎥 Content Creator</h3>
-  <strong style="color: #7ee787;">1+ Año • YouTube</strong>
+<div style="background-color: #161b22; padding: 20px; border-radius: 12px; border: 1px solid #30363d; height: 100%;">
+  <h3 style="color: #38bdf8; margin-top: 0;">🎥 Technical Content Creator</h3>
+  <p style="color: #7ee787; font-size: 12px; font-weight: bold; margin-top: -8px;">1+ Año • YouTube</p>
 
-  <p>Diseño y divulgación de tutoriales enfocados en arquitectura de sistemas, lógica visual con <strong>Blueprints en UE5</strong> y buenas prácticas.</p>
+  <p style="color: #c9d1d9; font-size: 13px;">
+    Diseño y divulgación de tutoriales enfocados en arquitectura de sistemas, lógica visual con <strong>Blueprints en UE5</strong> y buenas prácticas de desarrollo.
+  </p>
 
-  <code>Unreal Engine 5</code> <code>Blueprints</code><br>
-  <code>Technical Communication</code> <code>Docs</code>
+  <span style="color: #8b949e; font-size: 12px;">
+    <code>Unreal Engine 5</code> <code>Blueprints</code><br>
+    <code>Technical Communication</code> <code>Docs</code>
+  </span>
+</div>
 </td>
 
 <td width="33%" valign="top">
-  <h3 style="color: #38bdf8;">🔧 HECAP Automatización</h3>
-  <strong style="color: #8b949e;">2021 • Software Embebido</strong>
+<div style="background-color: #161b22; padding: 20px; border-radius: 12px; border: 1px solid #30363d; height: 100%;">
+  <h3 style="color: #38bdf8; margin-top: 0;">🔧 HECAP Automatización S.A.S.</h3>
+  <p style="color: #8b949e; font-size: 12px; font-weight: bold; margin-top: -8px;">2021 • Software Embebido</p>
 
-  <p>Programación de microcontroladores en C++, resolución de problemas técnicos y desarrollo de sistemas para automatización industrial.</p>
+  <p style="color: #c9d1d9; font-size: 13px;">
+    Programación de microcontroladores en C++, resolución de problemas técnicos y desarrollo de sistemas para automatización industrial.
+  </p>
 
-  <code>C++</code> <code>Microcontrollers</code><br>
-  <code>Debugging</code> <code>Electronics</code>
+  <span style="color: #8b949e; font-size: 12px;">
+    <code>C++</code> <code>Microcontrollers</code><br>
+    <code>Debugging</code> <code>Electronics</code>
+  </span>
+</div>
 </td>
 
 </tr>
@@ -547,23 +664,22 @@
 <table width="100%">
 <tr>
 
-<!-- 1. Rachas -->
-<td width="50%" align="center" valign="top">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=overrun1026&theme=dark&background=161b22&border=30363d&stroke=30363d&ring=38bdf8&fire=7ee787&currStreakLabel=58a6ff&v=2" width="100%" alt="GitHub Streak Stats" />
+
+<!-- 2. Rachas -->
+<td width="33%" align="center" valign="top">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=overrun1026&theme=dark&background=161b22&border=30363d&stroke=30363d&ring=38bdf8&fire=7ee787&currStreakLabel=58a6ff" width="100%" alt="GitHub Streak Stats" />
 </td>
 
-<!-- 2. Lenguajes Principales -->
-<td width="50%" align="center" valign="top">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=overrun1026&layout=compact&theme=dark&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&hide_border=false&v=2" width="100%" alt="Top Languages" />
+<!-- 3. Lenguajes Principales -->
+<td width="33%" align="center" valign="top">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=overrun1026&layout=compact&theme=dark&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&hide_border=false" width="100%" alt="Top Languages" />
 </td>
 
 </tr>
 </table>
 
-<br>
-
 <!-- ===================================================== -->
-<!--                   FOOTER & CONNECT                    -->
+<!--                    FOOTER & CONNECT                   -->
 <!-- ===================================================== -->
 
 <div align="center">
