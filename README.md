@@ -586,69 +586,60 @@ CODE → CONTAINER → ORCHESTRATE → PROVISION → DEPLOY → AUTOMATE
 <br>
 
 <!-- ===================================================== -->
-<!--                     EXPERIENCE                        -->
+
+<!-- EXPERIENCE -->
+
 <!-- ===================================================== -->
 
-<h2 style="color: #58a6ff;">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="28" height="28" />
-  Experience
-</h2>
+<h2 style="color: #58a6ff;"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="28" height="28" /> Experience </h2>
 
-<table width="100%">
-<tr>
+<table width="100%"> <tr>
 
-<td width="33%" valign="top">
-<div style="background-color: #161b22; padding: 20px; border-radius: 12px; border: 1px solid #30363d; height: 100%;">
-  <h3 style="color: #38bdf8; margin-top: 0;">👨‍💻 Software & Game Developer</h3>
-  <p style="color: #7ee787; font-size: 12px; font-weight: bold; margin-top: -8px;">2019 → Presente</p>
+<td width="33%" valign="top"> <div style="background-color: #161b22; padding: 20px; border-radius: 12px; border: 1px solid #30363d; height: 100%;"> <h3 style="color: #38bdf8; margin-top: 0;">👨‍💻 Software & Game Developer</h3> <p style="color: #7ee787; font-size: 12px; font-weight: bold; margin-top: -8px;">2019 → Presente</p>
 
-  <p style="color: #c9d1d9; font-size: 13px;">
-    Desarrollo de aplicaciones, programación orientada a objetos, lógica compleja en <strong>Unreal Engine (5+ años)</strong> y soluciones de software.
-  </p>
+<p style="color: #c9d1d9; font-size: 13px;"> Desarrollo de aplicaciones y sistemas, programación orientada a objetos, debugging y soluciones de software. Desarrollo de proyectos profesionales con <strong>Unreal Engine</strong> y programación en C++. </p>
 
-  <span style="color: #8b949e; font-size: 12px;">
-    <code>Python</code> <code>C++</code> <code>Unreal Engine</code><br>
-    <code>Linux</code> <code>Docker</code> <code>Kubernetes</code>
-  </span>
-</div>
-</td>
+<span style="color: #8b949e; font-size: 12px;"> <code>Python</code> <code>C++</code> <code>Unreal Engine</code><br> <code>Linux</code> <code>Docker</code> <code>Kubernetes</code> </span> </div> </td>
 
-<td width="33%" valign="top">
-<div style="background-color: #161b22; padding: 20px; border-radius: 12px; border: 1px solid #30363d; height: 100%;">
-  <h3 style="color: #38bdf8; margin-top: 0;">🎥 Technical Content Creator</h3>
-  <p style="color: #7ee787; font-size: 12px; font-weight: bold; margin-top: -8px;">1+ Año • YouTube</p>
+<td width="33%" valign="top"> <div style="background-color: #161b22; padding: 20px; border-radius: 12px; border: 1px solid #30363d; height: 100%;"> <h3 style="color: #38bdf8; margin-top: 0;">🌐 JUBER S.A.S.</h3> <p style="color: #7ee787; font-size: 12px; font-weight: bold; margin-top: -8px;">2021 → Jun 2026 • Web Developer</p>
 
-  <p style="color: #c9d1d9; font-size: 13px;">
-    Diseño y divulgación de tutoriales enfocados en arquitectura de sistemas, lógica visual con <strong>Blueprints en UE5</strong> y buenas prácticas de desarrollo.
-  </p>
+<p style="color: #c9d1d9; font-size: 13px;"> Desarrollo, administración y mantenimiento del sitio web corporativo, implementando soluciones orientadas a las necesidades de la empresa y realizando mejoras continuas sobre la plataforma. </p>
 
-  <span style="color: #8b949e; font-size: 12px;">
-    <code>Unreal Engine 5</code> <code>Blueprints</code><br>
-    <code>Technical Communication</code> <code>Docs</code>
-  </span>
-</div>
-</td>
+<span style="color: #8b949e; font-size: 12px;"> <code>HTML</code> <code>CSS</code> <code>JavaScript</code><br> <code>Web Development</code> <code>Maintenance</code> </span> </div> </td>
 
-<td width="33%" valign="top">
-<div style="background-color: #161b22; padding: 20px; border-radius: 12px; border: 1px solid #30363d; height: 100%;">
-  <h3 style="color: #38bdf8; margin-top: 0;">🔧 HECAP Automatización S.A.S.</h3>
-  <p style="color: #8b949e; font-size: 12px; font-weight: bold; margin-top: -8px;">2021 • Software Embebido</p>
+<td width="33%" valign="top"> <div style="background-color: #161b22; padding: 20px; border-radius: 12px; border: 1px solid #30363d; height: 100%;"> <h3 style="color: #38bdf8; margin-top: 0;">🏫 Colegio Charlot Zipaquirá</h3> <p style="color: #7ee787; font-size: 12px; font-weight: bold; margin-top: -8px;">2023 → Presente • Web Developer</p>
 
-  <p style="color: #c9d1d9; font-size: 13px;">
-    Programación de microcontroladores en C++, resolución de problemas técnicos y desarrollo de sistemas para automatización industrial.
-  </p>
+<p style="color: #c9d1d9; font-size: 13px;"> Desarrollo, administración y mantenimiento del sitio web institucional, implementando contenido, mejoras visuales y funcionalidades para la presencia digital del colegio. </p>
 
-  <span style="color: #8b949e; font-size: 12px;">
-    <code>C++</code> <code>Microcontrollers</code><br>
-    <code>Debugging</code> <code>Electronics</code>
-  </span>
-</div>
-</td>
+<span style="color: #8b949e; font-size: 12px;"> <code>HTML</code> <code>CSS</code> <code>JavaScript</code><br> <code>Web Development</code> <code>Maintenance</code> </span> </div> </td>
 
-</tr>
-</table>
+</tr> </table>
 
 <br>
+
+<table width="100%"> <tr>
+
+<td width="50%" valign="top"> <div style="background-color: #161b22; padding: 20px; border-radius: 12px; border: 1px solid #30363d; height: 100%;"> <h3 style="color: #38bdf8; margin-top: 0;">🎥 Technical Content Creator</h3> <p style="color: #7ee787; font-size: 12px; font-weight: bold; margin-top: -8px;">1+ Año • YouTube</p>
+
+<p style="color: #c9d1d9; font-size: 13px;"> Diseño y divulgación de tutoriales enfocados en arquitectura de sistemas, lógica visual con <strong>Blueprints en UE5</strong> y buenas prácticas de desarrollo. </p>
+
+<span style="color: #8b949e; font-size: 12px;"> <code>Unreal Engine 5</code> <code>Blueprints</code><br> <code>Technical Communication</code> <code>Docs</code> </span> </div> </td>
+
+<td width="50%" valign="top"> <div style="background-color: #161b22; padding: 20px; border-radius: 12px; border: 1px solid #30363d; height: 100%;"> <h3 style="color: #38bdf8; margin-top: 0;">🔧 HECAP Automatización S.A.S.</h3> <p style="color: #8b949e; font-size: 12px; font-weight: bold; margin-top: -8px;">Jun 2021 → Dec 2021 • Internship</p>
+
+<p style="color: #c9d1d9; font-size: 13px;"> Programación de microcontroladores en C++, resolución de problemas técnicos y desarrollo de sistemas para automatización industrial. </p>
+
+<span style="color: #8b949e; font-size: 12px;"> <code>C++</code> <code>Microcontrollers</code><br> <code>Debugging</code> <code>Electronics</code> </span> </div> </td>
+
+</tr> </table>
+
+<br>
+
+<!-- Separador Neón -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3px" />
+
+<br><br>
 
 <!-- Separador Neón -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3px" />
