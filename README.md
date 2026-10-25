@@ -3,12 +3,12 @@
   <!-- Banner Principal Moderno -->
   <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0d1117,50:161b22,100:1f2937&text=LEONARDO%20GRACIA&fontSize=46&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Electronic%20Engineer%20%7C%20Junior%20DevOps%20Engineer&descAlignY=62&descSize=18&descColor=8b949e" width="100%" />
 
-  <br>
 
   <!-- Animación de escritura -->
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1300&color=38BDF8&center=true&vCenter=true&width=700&height=45&lines=Linux+%E2%80%A2+Docker+%E2%80%A2+Kubernetes+%E2%80%A2+Terraform;Python+%E2%80%A2+FastAPI+%E2%80%A2+PostgreSQL;Building+my+path+into+DevOps+%26+Cloud" />
 
-  <br><br>
+  
+
 
   <!-- Botones y Contacto -->
   <a href="https://www.linkedin.com/in/leonardo-gracia-7221221b/" target="_blank">
@@ -23,7 +23,6 @@
 
 </div>
 
-<br>
 
 <!-- ===================================================== -->
 <!--                     ABOUT ME                          -->
@@ -46,18 +45,15 @@
     <span style="color: #7ee787;">Junior DevOps Engineer</span>
   </p>
 
-  Soy **Ingeniero Electrónico** (Universidad Manuela Beltrán) con experiencia en desarrollo de software desde 2019.
+  Soy Ingeniero Electrónico (Universidad Manuela Beltrán) con experiencia en desarrollo de software desde 2019.
 
-  Mi trayectoria comenzó construyendo aplicaciones con **Python, C++, C# y SQL**. Hoy enfoco toda esa base lógica hacia **DevOps e Infraestructura**, especializándome en:
+  Mi trayectoria comenzó construyendo aplicaciones con Python, C++, C# y SQL. Hoy enfoco toda esa base lógica hacia DevOps e Infraestructura, especializándome en:
+- 🐧 Linux & Scripting (Bash, Python)
+- 🐳 Containerización & Orquestación (Docker, Kubernetes)
+- 🏗️ Infrastructure as Code (Terraform)
+- ☁️ Cloud Computing (AWS)
 
-  * 🐧 **Linux & Scripting** (Bash, Python)
-  * 🐳 **Containerización & Orquestación** (Docker, Kubernetes)
-  * 🏗️ **Infrastructure as Code** (Terraform)
-  * ☁️ **Cloud Computing** (AWS)
-
-  <br>
-
-  > *“Build systems. Understand them. Automate them. Improve them.”*
+“Build systems. Understand them. Automate them. Improve them.”
 
   </div>
 </td>
@@ -70,15 +66,14 @@
 
   <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,aws,python,postgres,git&perline=4&theme=dark" />
 
-  <br><br>
+  
+
 
   <img src="https://img.shields.io/badge/B.S._Electronics_Engineering-2021-0052B4?style=for-the-badge&logo=academia&logoColor=white" />
 
-  <br>
 
   <img src="https://img.shields.io/badge/Software_Dev-2019_%E2%86%92_Present-2EA043?style=for-the-badge&logo=codefactor&logoColor=white" />
 
-  <br>
 
   <img src="https://img.shields.io/badge/Focus-DevOps_%26_Cloud-38BDF8?style=for-the-badge&logo=linux&logoColor=white" />
 
@@ -88,7 +83,6 @@
 </tr>
 </table>
 
-<br>
 
 <!-- ===================================================== -->
 <!--                QUICK PROFILE CARDS                    -->
@@ -140,12 +134,12 @@
 </tr>
 </table>
 
-<br>
 
 <!-- Separador Neón -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3px" />
 
-<br><br>
+
+
 
 <!-- ===================================================== -->
 <!--               ENGINEERING PRINCIPLES                  -->
@@ -184,7 +178,6 @@
 </tr>
 </table>
 
-<br>
 
 <!-- ===================================================== -->
 <!--                   DEVOPS JOURNEY                      -->
@@ -249,7 +242,6 @@
 </tr>
 </table>
 
-<br>
 
 <table width="100%">
 <tr>
@@ -279,7 +271,6 @@ CODE → CONTAINER → ORCHESTRATE → PROVISION → DEPLOY → AUTOMATE
 
 </div>
 
-<br>
 
 <!-- ===================================================== -->
 <!--                     TECH STACK                        -->
@@ -344,7 +335,6 @@ CODE → CONTAINER → ORCHESTRATE → PROVISION → DEPLOY → AUTOMATE
 </tr>
 </table>
 
-<br>
 
 <!-- ===================================================== -->
 <!--                   CURRENT LEVEL                       -->
@@ -396,120 +386,76 @@ CODE → CONTAINER → ORCHESTRATE → PROVISION → DEPLOY → AUTOMATE
 <em>*Indicadores basados en experiencia práctica en proyectos reales y laboratorios de infraestructura.</em>
 </p>
 
-<br>
 
 <!-- ===================================================== -->
-<!--                   FEATURED PROJECT                    -->
-<!-- ===================================================== -->
-
-<h2 style="color: #58a6ff;">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Loudspeaker.png" width="28" height="28" />
-  Featured Project
-</h2>
-
-<div style="background-color: #161b22; padding: 22px; border-radius: 12px; border: 1px solid #30363d;">
-
-<table width="100%">
-<tr>
-
-<td width="55%" valign="top">
-  <h3 style="color: #38bdf8; margin-top: 0;">☸️ Inventory System — Docker to Kubernetes</h3>
-  
-  <p style="color: #c9d1d9; font-size: 14px;">
-    Sistema de inventario completo diseñado y desplegado como laboratorio de arquitectura de microservicios e infraestructura containerizada.
-  </p>
-
-  <a href="https://github.com/overrun1026/Inventario-docker-kubernetes" target="_blank">
-    <img src="https://opengraph.githubassets.com/1/overrun1026/Inventario-docker-kubernetes" width="100%" style="border-radius: 8px; border: 1px solid #30363d;" />
-  </a>
-</td>
-
-<td width="5%"></td>
-
-<td width="40%" valign="top">
-  <h4 style="color: #a5d6ff; margin-top: 0;">🛠️ Tech Stack</h4>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,kubernetes,postgres,nginx&perline=3&theme=dark" />
-
-  <br><br>
-
-  <h4 style="color: #a5d6ff; margin-bottom: 6px;">🏗️ Implemented Concepts</h4>
-  <span style="color: #8b949e; font-size: 13px;">
-    <code>Deployments</code> <code>Services</code><br>
-    <code>ConfigMaps</code> <code>Secrets</code><br>
-    <code>PVC (Persistent Volumes)</code><br>
-    <code>NGINX Ingress Controller</code>
-  </span>
-
-  <br><br><br>
-
-  <a href="https://github.com/overrun1026/Inventario-docker-kubernetes" target="_blank">
-    <img src="https://img.shields.io/badge/EXPLORE_REPOSITORY-238636?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</td>
-
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<!-- ===================================================== -->
-<!--                   REPOSITORIES                        -->
+<!--                     PROJECTS                          -->
 <!-- ===================================================== -->
 
 <h2 style="color: #58a6ff;">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" width="28" height="28" />
-  Repositories & Labs
+  Featured Projects
 </h2>
 
 <table width="100%">
 <tr>
 
-<td width="33%" valign="top">
-<div style="background-color: #161b22; padding: 16px; border-radius: 10px; border: 1px solid #30363d; height: 100%;">
-  <h4 style="color: #38bdf8; margin-top: 0;">🐳 App Inventario DevOps</h4>
-  <p style="color: #8b949e; font-size: 12px; margin-bottom: 10px;">
-    Sistema de inventario CRUD desarrollado con HTML, CSS, JavaScript, Python y PostgreSQL, contenerizado con Docker y Docker Compose.
-  </p>
-  <code>Docker</code> <code>Python</code> <code>PostgreSQL</code>
-  <br><br>
-  <a href="https://github.com/overrun1026/app-inventario-devops-v1" target="_blank">
-    <span style="color: #58a6ff; font-size: 12px; font-weight: bold;">Ver Repositorio →</span>
-  </a>
-</div>
+<td width="50%" valign="top">
+  <div style="background-color: #161b22; padding: 20px; border-radius: 12px; border: 1px solid #30363d; height: 100%;">
+    <h3 style="color: #38bdf8; margin-top: 0;">🐳 Inventory System — Docker Compose</h3>
+
+<a href="https://github.com/overrun1026/App-Inventario-DockerCompose" target="_blank">
+  <img src="https://opengraph.githubassets.com/1/overrun1026/App-Inventario-DockerCompose" width="100%" style="border-radius: 8px; border: 1px solid #30363d;" alt="Vista previa del proyecto de inventario" />
+</a>
+
+<p style="color: #c9d1d9; font-size: 14px; line-height: 1.6;">
+  Aplicación web de inventario con operaciones CRUD para administrar productos. Integra una interfaz web con un backend en Python y una base de datos PostgreSQL, ejecutados mediante Docker Compose.
+</p>
+
+<h4 style="color: #a5d6ff; margin-bottom: 8px;">🛠️ Tech Stack</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,postgres,docker,html,css,js&perline=6&theme=dark" alt="Python, PostgreSQL, Docker, HTML, CSS y JavaScript" />
+</p>
+
+<p style="color: #8b949e; font-size: 13px;">
+  <code>CRUD</code> <code>PostgreSQL</code> <code>Docker</code> <code>Docker Compose</code>
+</p>
+
+<a href="https://github.com/overrun1026/App-Inventario-DockerCompose" target="_blank">
+  <img src="https://img.shields.io/badge/EXPLORE_REPOSITORY-238636?style=for-the-badge&logo=github&logoColor=white" alt="Explorar repositorio de inventario" />
+</a>
+  </div>
 </td>
 
-<td width="33%" valign="top">
-<div style="background-color: #161b22; padding: 16px; border-radius: 10px; border: 1px solid #30363d; height: 100%;">
-  <h4 style="color: #38bdf8; margin-top: 0;">🐍 Python Docker Compose</h4>
-  <p style="color: #8b949e; font-size: 12px; margin-bottom: 10px;">
-    Orquestación multicontenedor de entorno de desarrollo con persistencia de datos.
-  </p>
-  <code>Python</code> <code>Docker Compose</code> <code>Postgres</code>
-  <br><br>
-  <a href="https://github.com/overrun1026/python-inventory-docker-compose" target="_blank">
-    <span style="color: #58a6ff; font-size: 12px; font-weight: bold;">Ver Repositorio →</span>
-  </a>
-</div>
-</td>
+<td width="50%" valign="top">
+  <div style="background-color: #161b22; padding: 20px; border-radius: 12px; border: 1px solid #30363d; height: 100%;">
+    <h3 style="color: #38bdf8; margin-top: 0;">✅ TaskFlow — Task Management API</h3>
 
-<td width="33%" valign="top">
-<div style="background-color: #161b22; padding: 16px; border-radius: 10px; border: 1px solid #30363d; height: 100%;">
-  <h4 style="color: #38bdf8; margin-top: 0;">🗄️ Database Lab Series</h4>
-  <p style="color: #8b949e; font-size: 12px; margin-bottom: 10px;">
-    Colección de sistemas de gestión integrados con MySQL, PostgreSQL y JSON.
-  </p>
-  <code>SQL</code> <code>PostgreSQL</code> <code>MySQL</code>
-  <br><br>
-  <span style="color: #7ee787; font-size: 12px; font-weight: bold;">Software Architecture Labs</span>
-</div>
+<a href="https://github.com/overrun1026/ProyectoApiDeTareasPersonales" target="_blank">
+  <img src="https://opengraph.githubassets.com/1/overrun1026/ProyectoApiDeTareasPersonales" width="100%" style="border-radius: 8px; border: 1px solid #30363d;" alt="Vista previa del proyecto TaskFlow" />
+</a>
+
+<p style="color: #c9d1d9; font-size: 14px; line-height: 1.6;">
+  Aplicación web para gestionar tareas personales mediante una API REST. Incluye un backend con FastAPI, persistencia en PostgreSQL y una interfaz desarrollada con HTML, CSS y JavaScript. El entorno se ejecuta con Docker Compose.
+</p>
+
+<h4 style="color: #a5d6ff; margin-bottom: 8px;">🛠️ Tech Stack</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,html,css,js&perline=4&theme=dark" alt="Python, FastAPI, PostgreSQL, Docker, HTML, CSS y JavaScript" />
+</p>
+
+<p style="color: #8b949e; font-size: 13px;">
+  <code>REST API</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>Docker Compose</code>
+</p>
+
+<a href="https://github.com/overrun1026/ProyectoApiDeTareasPersonales" target="_blank">
+  <img src="https://img.shields.io/badge/EXPLORE_REPOSITORY-238636?style=for-the-badge&logo=github&logoColor=white" alt="Explorar repositorio TaskFlow" />
+</a>
+  </div>
 </td>
 
 </tr>
 </table>
 
-<br>
 
 <!-- ===================================================== -->
 <!--             EDUCATION & CERTIFICATIONS                -->
@@ -553,7 +499,6 @@ CODE → CONTAINER → ORCHESTRATE → PROVISION → DEPLOY → AUTOMATE
 </tr>
 </table>
 
-<br>
 
 <table width="100%">
 <tr>
@@ -583,7 +528,6 @@ CODE → CONTAINER → ORCHESTRATE → PROVISION → DEPLOY → AUTOMATE
 </tr>
 </table>
 
-<br>
 
 <!-- ===================================================== -->
 
@@ -599,23 +543,24 @@ CODE → CONTAINER → ORCHESTRATE → PROVISION → DEPLOY → AUTOMATE
 
 <p style="color: #c9d1d9; font-size: 13px;"> Desarrollo de aplicaciones y sistemas, programación orientada a objetos, debugging y soluciones de software. Desarrollo de proyectos profesionales con <strong>Unreal Engine</strong> y programación en C++. </p>
 
-<span style="color: #8b949e; font-size: 12px;"> <code>Python</code> <code>C++</code> <code>Unreal Engine</code><br> <code>Linux</code> <code>Docker</code> <code>Kubernetes</code> </span> </div> </td>
-
+<span style="color: #8b949e; font-size: 12px;"> <code>Python</code> <code>C++</code> <code>Unreal Engine</code>
+ <code>Linux</code> <code>Docker</code> <code>Kubernetes</code> </span> </div> </td>
 <td width="33%" valign="top"> <div style="background-color: #161b22; padding: 20px; border-radius: 12px; border: 1px solid #30363d; height: 100%;"> <h3 style="color: #38bdf8; margin-top: 0;">🌐 JUBER S.A.S.</h3> <p style="color: #7ee787; font-size: 12px; font-weight: bold; margin-top: -8px;">2021 → Jun 2026 • Web Developer</p>
 
 <p style="color: #c9d1d9; font-size: 13px;"> Desarrollo, administración y mantenimiento del sitio web corporativo, implementando soluciones orientadas a las necesidades de la empresa y realizando mejoras continuas sobre la plataforma. </p>
 
-<span style="color: #8b949e; font-size: 12px;"> <code>HTML</code> <code>CSS</code> <code>JavaScript</code><br> <code>Web Development</code> <code>Maintenance</code> </span> </div> </td>
 
+<span style="color: #8b949e; font-size: 12px;"> <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
+ <code>Web Development</code> <code>Maintenance</code> </span> </div> </td>
 <td width="33%" valign="top"> <div style="background-color: #161b22; padding: 20px; border-radius: 12px; border: 1px solid #30363d; height: 100%;"> <h3 style="color: #38bdf8; margin-top: 0;">🏫 Colegio Charlot Zipaquirá</h3> <p style="color: #7ee787; font-size: 12px; font-weight: bold; margin-top: -8px;">2023 → Presente • Web Developer</p>
 
 <p style="color: #c9d1d9; font-size: 13px;"> Desarrollo, administración y mantenimiento del sitio web institucional, implementando contenido, mejoras visuales y funcionalidades para la presencia digital del colegio. </p>
 
-<span style="color: #8b949e; font-size: 12px;"> <code>HTML</code> <code>CSS</code> <code>JavaScript</code><br> <code>Web Development</code> <code>Maintenance</code> </span> </div> </td>
 
+<span style="color: #8b949e; font-size: 12px;"> <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
+ <code>Web Development</code> <code>Maintenance</code> </span> </div> </td>
 </tr> </table>
 
-<br>
 
 <table width="100%"> <tr>
 
@@ -623,28 +568,30 @@ CODE → CONTAINER → ORCHESTRATE → PROVISION → DEPLOY → AUTOMATE
 
 <p style="color: #c9d1d9; font-size: 13px;"> Diseño y divulgación de tutoriales enfocados en arquitectura de sistemas, lógica visual con <strong>Blueprints en UE5</strong> y buenas prácticas de desarrollo. </p>
 
-<span style="color: #8b949e; font-size: 12px;"> <code>Unreal Engine 5</code> <code>Blueprints</code><br> <code>Technical Communication</code> <code>Docs</code> </span> </div> </td>
-
+<span style="color: #8b949e; font-size: 12px;"> <code>Unreal Engine 5</code> <code>Blueprints</code>
+ <code>Technical Communication</code> <code>Docs</code> </span> </div> </td>
 <td width="50%" valign="top"> <div style="background-color: #161b22; padding: 20px; border-radius: 12px; border: 1px solid #30363d; height: 100%;"> <h3 style="color: #38bdf8; margin-top: 0;">🔧 HECAP Automatización S.A.S.</h3> <p style="color: #8b949e; font-size: 12px; font-weight: bold; margin-top: -8px;">Jun 2021 → Dec 2021 • Internship</p>
 
 <p style="color: #c9d1d9; font-size: 13px;"> Programación de microcontroladores en C++, resolución de problemas técnicos y desarrollo de sistemas para automatización industrial. </p>
 
-<span style="color: #8b949e; font-size: 12px;"> <code>C++</code> <code>Microcontrollers</code><br> <code>Debugging</code> <code>Electronics</code> </span> </div> </td>
 
+<span style="color: #8b949e; font-size: 12px;"> <code>C++</code> <code>Microcontrollers</code>
+ <code>Debugging</code> <code>Electronics</code> </span> </div> </td>
 </tr> </table>
 
-<br>
 
 <!-- Separador Neón -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3px" />
 
-<br><br>
+
+
 
 <!-- Separador Neón -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3px" />
 
-<br><br>
+
+
 
 <!-- ===================================================== -->
 <!--                   GITHUB STATS                        -->
@@ -700,11 +647,13 @@ CODE → CONTAINER → ORCHESTRATE → PROVISION → DEPLOY → AUTOMATE
   <img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
 </a>
 
-<br><br>
+
+
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=1800&color=8B949E&center=true&vCenter=true&width=650&height=35&lines=Junior+DevOps+Engineer;Linux+%7C+Docker+%7C+Kubernetes+%7C+Terraform;Unreal+Engine+Developer+%7C+Always+building" />
 
-<br><br>
+
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0d1117,50:161b22,100:1f2937" width="100%" />
 
