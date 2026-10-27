@@ -12,6 +12,30 @@
 </div>
 
 ---
+<!-- PORTFOLIO WEBSITE -->
+<div align="center">
+
+  <h2>🌐 ¿Eres reclutador?</h2>
+
+  <p>
+    ¿Quieres conocer más sobre mi experiencia, habilidades y proyectos?
+    <br>
+    Visita mi portafolio profesional para conocer mi trabajo como desarrollador.
+  </p>
+
+  <a href="https://www.leonardogracia.com" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20mi%20portafolio-leonardogracia.com-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visitar mi portafolio profesional">
+  </a>
+
+  <br><br>
+
+  <sub>💼 Experiencia · Proyectos · Habilidades · Contacto</sub>
+
+</div>
+
+---
+
+
 
 ## ⚡ About Me
 
