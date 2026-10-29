@@ -12,30 +12,29 @@
 </div>
 
 ---
+
 <!-- PORTFOLIO WEBSITE -->
 <div align="center">
 
-  <h2>🌐 ¿Eres reclutador?</h2>
+<h2>🌐 ¿Eres reclutador?</h2>
 
-  <p>
-    ¿Quieres conocer más sobre mi experiencia, habilidades y proyectos?
-    <br>
-    Visita mi portafolio profesional para conocer mi trabajo como desarrollador.
-  </p>
+<p>
+¿Quieres conocer más sobre mi experiencia, habilidades y proyectos?
+<br>
+Visita mi portafolio profesional para conocer mi trabajo como desarrollador.
+</p>
 
-  <a href="https://www.leonardogracia.com" target="_blank">
-    <img src="https://img.shields.io/badge/Ver%20mi%20portafolio-leonardogracia.com-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visitar mi portafolio profesional">
-  </a>
+<a href="https://www.leonardogracia.com" target="_blank">
+<img src="https://img.shields.io/badge/Ver%20mi%20portafolio-leonardogracia.com-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visitar mi portafolio profesional">
+</a>
 
-  <br><br>
+<br><br>
 
-  <sub>💼 Experiencia · Proyectos · Habilidades · Contacto</sub>
+<sub>💼 Experiencia · Proyectos · Habilidades · Contacto</sub>
 
 </div>
 
 ---
-
-
 
 ## ⚡ About Me
 
@@ -191,6 +190,7 @@ Aplicación web para gestionar tareas personales mediante una API REST. Incluye 
 
 </td>
 </tr>
+
 <tr>
 <td colspan="2" valign="top">
 
@@ -216,6 +216,38 @@ El proyecto utiliza SQLAlchemy para el acceso a datos, Alembic para las migracio
 
 <a href="https://github.com/overrun1026/Proyecto-Finora-Finanzas">
 <img src="https://img.shields.io/badge/EXPLORE_REPOSITORY-238636?style=for-the-badge&logo=github&logoColor=white" alt="Explorar repositorio Finora" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+
+### 🎫 HelpDesk — Ticket Management System
+
+<a href="https://github.com/overrun1026/ProyectoGestorDeTickets">
+<img src="https://opengraph.githubassets.com/1/overrun1026/ProyectoGestorDeTickets" width="100%" alt="Vista previa del proyecto HelpDesk" />
+</a>
+
+Sistema web de gestión de tickets de soporte técnico, diseñado para organizar solicitudes, administrar incidencias y facilitar la comunicación entre usuarios y administradores. Incluye autenticación mediante JWT, control de permisos por roles, gestión de usuarios y categorías, comentarios, notificaciones y seguimiento del estado de los tickets.
+
+El backend está desarrollado con Node.js y Express, utilizando PostgreSQL para la persistencia de datos. La aplicación está organizada en módulos con separación de rutas, controladores, servicios y repositorios, e incorpora validación de solicitudes, middleware de autenticación y autorización, paginación y documentación de la API con OpenAPI.
+
+Docker Compose permite ejecutar los servicios del backend, frontend y base de datos en un entorno integrado.
+
+**Tecnologías**
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,js,html,css,vite,docker&perline=4&theme=dark" alt="Node.js, Express, PostgreSQL, JavaScript, HTML, CSS, Vite y Docker" />
+
+</div>
+
+`Node.js` `Express` `REST API` `PostgreSQL` `JWT` `RBAC` `OpenAPI` `Docker` `Docker Compose` `Vite`
+
+<a href="https://github.com/overrun1026/ProyectoGestorDeTickets">
+<img src="https://img.shields.io/badge/EXPLORE_REPOSITORY-238636?style=for-the-badge&logo=github&logoColor=white" alt="Explorar repositorio HelpDesk" />
 </a>
 
 </td>
