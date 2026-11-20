@@ -104,7 +104,7 @@ React Vite HTML5 Docker Compose Amazon S3 CloudFront AWS CLI Cloudflare DNS
 </a></td>
 <td width="50%" valign="top">🐳 Inventory System — Docker Compose
 <a href="https://github.com/overrun1026/App-Inventario-DockerCompose">
-<img src="https://opengraph.githubassets.com/1/overrun1026/App-Inventario-DockerCompose" width="100%" alt="Vista previa del proyecto de inventario" />
+<img src="https://leonardogracia.com/assets/img/projects/inventario/cover.png" width="100%" alt="Vista previa del proyecto de inventario" />
 </a>Aplicación web de inventario con operaciones CRUD para administrar productos. Integra una interfaz web con un backend en Python y una base de datos PostgreSQL, ejecutados mediante Docker Compose.
 
 Tecnologías
@@ -116,7 +116,7 @@ CRUD PostgreSQL Docker Docker Compose
 </tr><tr>
 <td width="50%" valign="top">✅ TaskFlow — Task Management API
 <a href="https://github.com/overrun1026/ProyectoApiDeTareasPersonales">
-<img src="https://opengraph.githubassets.com/1/overrun1026/ProyectoApiDeTareasPersonales" width="100%" alt="Vista previa del proyecto TaskFlow" />
+<img src="https://leonardogracia.com/assets/img/projects/taskflow/cover.png" width="100%" alt="Vista previa del proyecto TaskFlow" />
 </a>Aplicación web para gestionar tareas personales mediante una API REST. Incluye un backend con FastAPI, persistencia en PostgreSQL y una interfaz desarrollada con HTML, CSS y JavaScript. El entorno se ejecuta con Docker Compose.
 
 Tecnologías
@@ -127,7 +127,7 @@ REST API FastAPI PostgreSQL Docker Compose
 </a></td>
 <td width="50%" valign="top">💰 Finora — Personal Finance Manager
 <a href="https://github.com/overrun1026/Proyecto-Finora-Finanzas">
-<img src="https://opengraph.githubassets.com/1/overrun1026/Proyecto-Finora-Finanzas" width="100%" alt="Vista previa del proyecto Finora" />
+<img src="https://leonardogracia.com/assets/img/projects/finora/cover.png" width="100%" alt="Vista previa del proyecto Finora" />
 </a>Finora es una aplicación web para la gestión de finanzas personales que permite organizar transacciones, administrar presupuestos, realizar seguimiento de objetivos de ahorro y consultar informes financieros. Su arquitectura integra una API backend desarrollada con FastAPI, persistencia en PostgreSQL y una interfaz web construida con HTML, CSS y JavaScript.
 
 El proyecto utiliza SQLAlchemy para el acceso a datos, Alembic para las migraciones de la base de datos y Docker Compose para ejecutar los servicios. Nginx se encarga de servir el frontend y gestionar las solicitudes hacia el backend.
@@ -141,7 +141,7 @@ Python FastAPI PostgreSQL SQLAlchemy Alembic REST API Nginx Docker Docker Compos
 </tr><tr>
 <td width="50%" valign="top">🎫 HelpDesk — Ticket Management System
 <a href="https://github.com/overrun1026/ProyectoGestorDeTickets">
-<img src="https://opengraph.githubassets.com/1/overrun1026/ProyectoGestorDeTickets" width="100%" alt="Vista previa del proyecto HelpDesk" />
+<img src="https://leonardogracia.com/assets/img/projects/helpdesk/cover.png" width="100%" alt="Vista previa del proyecto HelpDesk" />
 </a>Sistema web de gestión de tickets de soporte técnico, diseñado para organizar solicitudes, administrar incidencias y facilitar la comunicación entre usuarios y administradores. Incluye autenticación mediante JWT, control de permisos por roles, gestión de usuarios y categorías, comentarios, notificaciones y seguimiento del estado de los tickets.
 
 El backend está desarrollado con Node.js y Express, utilizando PostgreSQL para la persistencia de datos. La aplicación está organizada en módulos con separación de rutas, controladores, servicios y repositorios, e incorpora validación de solicitudes, middleware de autenticación y autorización, paginación y documentación de la API con OpenAPI.
